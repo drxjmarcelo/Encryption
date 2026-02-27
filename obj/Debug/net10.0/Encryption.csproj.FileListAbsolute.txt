@@ -1,0 +1,14 @@
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.AssemblyInfoInputs.cache
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.AssemblyInfo.cs
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Russo\Desktop\Encryption\bin\Debug\net10.0\Encryption.exe
+C:\Users\Russo\Desktop\Encryption\bin\Debug\net10.0\Encryption.deps.json
+C:\Users\Russo\Desktop\Encryption\bin\Debug\net10.0\Encryption.runtimeconfig.json
+C:\Users\Russo\Desktop\Encryption\bin\Debug\net10.0\Encryption.dll
+C:\Users\Russo\Desktop\Encryption\bin\Debug\net10.0\Encryption.pdb
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.dll
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\refint\Encryption.dll
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.pdb
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\Encryption.genruntimeconfig.cache
+C:\Users\Russo\Desktop\Encryption\obj\Debug\net10.0\ref\Encryption.dll
