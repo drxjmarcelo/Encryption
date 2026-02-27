@@ -5,6 +5,8 @@ class Program
 {
     public static void Main()
     {
+        Auth auth = new Auth();
+
         int opcao = -1;
 
         while (opcao != 4)
@@ -24,15 +26,15 @@ class Program
             switch (opcao)
             {
                 case 1:
-                    Auth.SignUp();
+                    auth.SignUp();
                     break;
 
                 case 2:
-                    Auth.LogIn();
+                    auth.LogIn();
                     break;
 
                 case 3:
-                    Auth.List();
+                    auth.List();
                     break;
 
                 case 4:
