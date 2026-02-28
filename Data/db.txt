@@ -1,0 +1,4 @@
+SELECT "Id", "Username", "Password"
+FROM "Users";
+
+TRUNCATE TABLE "Users" RESTART IDENTITY;

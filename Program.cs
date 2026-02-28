@@ -9,13 +9,15 @@ class Program
 
         int opcao = -1;
 
-        while (opcao != 4)
+        while (opcao != 6)
         {
             Console.WriteLine("\n=== MENU ===");
             Console.WriteLine("1 - Novo cadastro");
             Console.WriteLine("2 - Logar");
             Console.WriteLine("3 - Checar Usuários Cadastrados");
-            Console.WriteLine("4 - Sair");
+            Console.WriteLine("4 - Deletar Usuário");
+            Console.WriteLine("5 - Redefinir Banco de Dados");
+            Console.WriteLine("6 - Sair");
 
             if (!int.TryParse(Console.ReadLine(), out opcao))
             {
@@ -38,6 +40,14 @@ class Program
                     break;
 
                 case 4:
+                    auth.DeleteUser();
+                    break;
+                
+                case 5:
+                    auth.Wipe();
+                    break;
+                
+                case 6:
                     Console.WriteLine("Saindo...");
                     break;
 
