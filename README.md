@@ -85,7 +85,7 @@ Devem ser instalados usando:
 ## 📄 Detalhes
 Para garantir a segurança, o campo usuário é público no banco de dados,
 mas a senha é protegida com hash da seguinte maneira:
-### Dentro do `SignIn`
+### Dentro do `SignIn()`
 ```
 string hashedPassword = BCrypt.Net.BCrypt.HashPassword(password);
 
@@ -106,4 +106,5 @@ var user = context.Users.FirstOrDefault(u => u.Username == username);
         Console.WriteLine("Login realizado com sucesso!");
         Yay.Message();
     }
+
 ```
