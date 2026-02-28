@@ -55,22 +55,22 @@ A persistência já foi implementada com banco relacional, substituindo o armaze
 Projeto executado como Console Application (.NET).
 
 ## 👨‍💻 Tecnologias
-### C#
+### C# 🟨
 Linguagem principal utilizada no desenvolvimento do sistema.
 
-### NET (.NET / .NET Core)
+### NET (.NET / .NET Core) 🟪
 Plataforma utilizada para execução da aplicação Console.
 
-### Entity Framework Core
+### Entity Framework Core 🟩
 ORM utilizado para mapeamento objeto-relacional e comunicação com o banco de dados.
 
-### PostgreSQL
+### PostgreSQL 🐘
 Sistema de gerenciamento de banco de dados relacional.
 
-### BCrypt
+### BCrypt 🔐
 Algoritmo utilizado para hash seguro de senhas.
 
-### DBeaver
+### DBeaver ⬜
 Ferramenta utilizada para administração e consulta do banco de dados.
 
 ## 📦 Instalação Dos Pacotes
@@ -108,3 +108,4 @@ var user = context.Users.FirstOrDefault(u => u.Username == username);
     }
 
 ```
+
