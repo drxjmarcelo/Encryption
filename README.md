@@ -116,23 +116,23 @@ Encryption📁
 <br>
 ├──Data📁
 <br>
-|⠀└──AppContextDb.cs📄
+⠀⠀└──AppContextDb.cs📄
 <br>
 ├──Migrations📁
 <br>
-|⠀└──[...]
+⠀⠀└──[...]
 <br>
 ├──Models📁
 <br>
-|⠀└──User.cs📄
+⠀⠀└──User.cs📄
 <br>
 ├──Services📁
 <br>
-⠀|⠀└──Auth.cs📄
+⠀⠀└──Auth.cs📄
 <br>
 ├──Target📁
 <br>
-|⠀└──Yay.cs📄
+⠀⠀└──Yay.cs📄
 <br>
 ├──Program.cs📄
 <br>
@@ -145,6 +145,7 @@ Classe que cria o objeto **Usuário**.
 
 ### Services📁/Auth.cs📄
 Classe que cria/manipula dados e acessa o banco de dados.
+
 
 
 
