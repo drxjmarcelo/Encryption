@@ -83,7 +83,7 @@ Devem ser instalados usando:
 * `dotnet add package BCrypt.Net-Next`
 
 ## 📄 Detalhes
-O campo Username não é considerado dado sensível e pode ser armazenado em texto simples.
+O campo `Username` não é considerado dado sensível e pode ser armazenado em texto simples.
 A senha é protegida utilizando hash com BCrypt.
 ### Dentro do `SignUp()`
 ```
@@ -145,6 +145,7 @@ Classe que cria o objeto **Usuário**.
 
 ### Services📁/Auth.cs📄
 Classe que cria/manipula dados e acessa o banco de dados.
+
 
 
 
