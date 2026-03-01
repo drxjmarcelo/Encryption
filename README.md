@@ -128,7 +128,7 @@ Encryption📁
 <br>
 ├──Services📁
 <br>
-|⠀└──Auth.cs📄
+⠀|⠀└──Auth.cs📄
 <br>
 ├──Target📁
 <br>
@@ -145,6 +145,7 @@ Classe que cria o objeto **Usuário**.
 
 ### Services📁/Auth.cs📄
 Classe que cria/manipula dados e acessa o banco de dados.
+
 
 
 
